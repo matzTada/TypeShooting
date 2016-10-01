@@ -1,4 +1,4 @@
-/*SD3年　松井忠宗
+/*
 タイピングゲーム×シューティングゲーム
 実装用に地味にしてこんなことをやりたいってのをわかりやすくしたver.
 文字を打ってあってればと玉が飛び、玉同士が跳ね返る。また数字を打つと玉が消えるようになっている。
@@ -11,7 +11,7 @@
 #include <stdexcept>
 #include <string>
 #include <string.h>
-#include "TSprototype1.h"
+#include "../header/sdglib.h"
 #include <time.h>
 #include <random>
 #include <stdlib.h>
@@ -224,11 +224,11 @@ void displaysigniture(){//署名的なもの
 	using namespace SDGLibF;
 	char buff3[100];
 	SetColor(0.8, 0.8, 0.8);
-	sprintf_s(buff3, "KEIO SD-Engineer");
+	sprintf_s(buff3, "");
 	DrawString(130, 90, buff3);
 	char buff6[100];
 	SetColor(0.99, 0.54, 0);
-	sprintf_s(buff6, "Tadanori Matsui");
+	sprintf_s(buff6, "Tada Matz");
 	DrawString(340, 90, buff6);
 	char buff4[100];
 	SetColor(0.8, 0.8, 0.8);
