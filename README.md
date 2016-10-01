@@ -2,7 +2,7 @@
 Type x Shooting program by OpenCV through glut over C++
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-AFYTWe-Fbs
-" target="_blank"><img src="http://img.youtube.com/vi/-AFYTWe-Fbs/0.jpg " 
+" target="_blank"><img src="http://img.youtube.com/vi/-AFYTWe-Fbs/0.jpg" 
 alt="movie on youtube" width=40% border="10" /></a>  
 [Type shooting on youtube](https://www.youtube.com/watch?v=-AFYTWe-Fbs)  
 
