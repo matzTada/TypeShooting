@@ -1,4 +1,4 @@
-#Typeshooting
+# Typeshooting
 Type x Shooting program by OpenCV through glut over C++
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-AFYTWe-Fbs
