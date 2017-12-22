@@ -6,7 +6,7 @@ Type x Shooting program by OpenCV through glut over C++
 alt="movie on youtube" width=40% border="10" /></a>  
 [Type shooting on youtube](https://www.youtube.com/watch?v=-AFYTWe-Fbs)  
 
-The prototype progranm for "SD exercise" in 3rd semester of System Design Engineering by Professor Yakoh. 
+The prototype progranm for "SD exercise" in 3rd semester of System Design Engineering by Prof. Yakoh. 
 OpenGL is handled with glut.
 Developed in Visual Studio 2013.
 
